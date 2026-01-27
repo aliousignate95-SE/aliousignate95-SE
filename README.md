@@ -14,5 +14,5 @@ Je m'intéresse particulièrement à la transformation numérique des entreprise
 * *[Projet 2]* : Étude d'impact de l'innovation dans le secteur [Agricole] - Mots clés : Management, Innovation.
 
 *Je suis joignable par :*
-- [LinkedIn](www.linkedin.com/in/aliou-signaté-8835141a9)
+- [LinkedIn](https://www.linkedin.com/in/aliou-signaté-8835141a9)
 - [Email](aliousignate95@gmail.com)
