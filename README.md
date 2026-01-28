@@ -12,6 +12,8 @@ Je m'intéresse particulièrement à la transformation numérique des entreprise
 ###  Mes Projets Récents
 * [Projet 1 : Analyse de risque](https://github.com/aliousignate95-SE/Analyse-Probabilit--D-faut)
    * [Projet 2 : Innovation Agricole](https://github.com/aliousignate95-SE/Innovation-Secteur-Agricole)
+ 
+  ---
 *Je suis joignable par :*
 - [LinkedIn](https://www.linkedin.com/in/aliou-signaté-8835141a9)
 - [Email](aliousignate95@gmail.com)
